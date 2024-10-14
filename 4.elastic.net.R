@@ -1,0 +1,1 @@
+library(caret) # gives createDataPartition() for train test. Probably not useful as I want to partion by lakes

@@ -1,0 +1,11 @@
+General order is 0 -> 1, 2, 3, 4. 0 files
+    are not needed to reproduce analysis, they
+    are early filename changes, etc that I did.
+
+More specific order below. If a script is
+    missing group it in by number (1,2,3,4):
+
+3.allometric.scaling
+3.merge.trait.lengths.and.predictors
+
+
